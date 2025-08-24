@@ -9,7 +9,8 @@ This project demonstrates GraphQL integration, filtering, pagination, and UI bes
 - [Next.js 15](https://nextjs.org/) – React framework for hybrid rendering
 - [Apollo Client](https://www.apollographql.com/docs/react/) – GraphQL data fetching
 - [TypeScript](https://www.typescriptlang.org/) – Type safety
-- [Tailwind CSS](https://tailwindcss.com/) (or CSS/UI library of choice) – Styling
+- [Tailwind CSS](https://tailwindcss.com/) – Styling
+- [Shadcn](https://ui.shadcn.com/) - Components Library
 - [GraphQL API](https://graphql-api-brown.vercel.app/api/graphql) – Data source
 
 ---
