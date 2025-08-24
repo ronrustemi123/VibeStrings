@@ -21,3 +21,5 @@ This project demonstrates GraphQL integration, filtering, pagination, and UI bes
 ```bash
 git clone https://github.com/YOUR_USERNAME/guitar-shop.git
 cd guitar-shop
+npm install
+npm run dev
