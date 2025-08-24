@@ -21,5 +21,25 @@ This project demonstrates GraphQL integration, filtering, pagination, and UI bes
 ```bash
 git clone https://github.com/YOUR_USERNAME/VibeStrings.git
 cd VibeStrings
+```
+### 2. Install Dependencies
+```bash
 npm install
+yarn install
+pnpm install
+```
+### 3. Environment Variables
+```bash
+touch .env.local
+```
+Open .env.local and add the following line:
+```bash
+APOLLO_CLIENT_URI=https://example.com/api/graphql
+```
+### 4. Run the Development Server
+```bash
 npm run dev
+yarn dev
+pnpm dev
+
+```
