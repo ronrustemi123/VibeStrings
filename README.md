@@ -30,11 +30,11 @@ pnpm install
 ```
 ### 3. Environment Variables
 ```bash
-touch .env.local
+touch .env
 ```
 Open .env.local and add the following line:
 ```bash
-APOLLO_CLIENT_URI=https://example.com/api/graphql
+APOLLO_CLIENT_URI=https://graphql-api-brown.vercel.app/api/graphql
 ```
 ### 4. Run the Development Server
 ```bash
