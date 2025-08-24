@@ -19,7 +19,7 @@ This project demonstrates GraphQL integration, filtering, pagination, and UI bes
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/guitar-shop.git
-cd guitar-shop
+git clone https://github.com/YOUR_USERNAME/VibeStrings.git
+cd VibeStrings
 npm install
 npm run dev
